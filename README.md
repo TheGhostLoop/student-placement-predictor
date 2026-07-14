@@ -48,8 +48,11 @@ The application compares multiple machine learning models and uses the best-perf
 ## 📷 Application Preview
 
 ## Home page
+<img width="1366" height="648" alt="image" src="https://github.com/user-attachments/assets/5e298ead-5349-4b38-97d1-8a81b12819d8" />
 
 ## Prediction Result
+<img width="908" height="395" alt="image" src="https://github.com/user-attachments/assets/bc610787-e819-41bc-8c6e-8d407af4501c" />
+
 ## Accuracy Comparison
 <img width="1460" height="720" alt="image" src="https://github.com/user-attachments/assets/3410910c-f672-4fd3-8b39-d9a65b0a6a8a" />
 
